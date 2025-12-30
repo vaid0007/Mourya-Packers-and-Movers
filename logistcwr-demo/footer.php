@@ -2,7 +2,7 @@
 <div class="st-footer-area pt-120 pb-32" style="background-image: url(assets/images/footer/bg.jpg);background-position: center center;background-size: cover;background-repeat: no-repeat;">
 	<div class="container">
 		<div class="row ft_borer">
-			<div class="col-lg-4 col-md-6 wow fadeInUpBig">
+			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__logo">
 					<a href="#"> <img src="assets/images/logo/logo1.png" alt=""> </a>
 				</div>
@@ -20,8 +20,18 @@
 					<a href="#"> <i class="bi bi-pinterest"></i> </a>
 					<a href="#"> <i class="bi bi-instagram"></i> </a>
 				</div>
-			</div>		
-			<div class="col-lg-4 col-md-6 wow fadeInUpBig">
+			</div>
+			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
+				<div class="st__footer__title">
+					<h2> Quick Links </h2>
+				</div>
+				<div class="st__footer__link">
+					<a href="terms-and-conditions.html"> <i class="bi bi-chevron-double-right"></i> Terms and Conditions </a>
+					<a href="privacy-policy.html"> <i class="bi bi-chevron-double-right"></i> Privacy Policy </a>
+					<a href="disclamer.html"> <i class="bi bi-chevron-double-right"></i> Disclamer </a>
+				</div>
+			</div>			
+			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__title">
 					<h2> Our Service </h2>
 				</div>
@@ -53,7 +63,7 @@
 </div>
 
 			</div>			
-			<div class="col-lg-4 col-md-6 wow fadeInUpBig">
+			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__title">
 	<h2>Newsletter</h2>
 	<p>

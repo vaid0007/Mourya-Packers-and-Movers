@@ -87,7 +87,7 @@
 							We provide reliable household shifting, office relocation,
 							car & bike transportation, and logistics services across India with complete safety and professionalism.
 						</p>
-						<a class="st__btn mt-40" href="service-details.html">
+						<a class="st__btn mt-40" href="service_1.php">
 							View Our Services <i class="bi bi-arrow-right"></i>
 						</a>
 					</div>
@@ -212,7 +212,7 @@
 				<div class="st__feature__bottom text-center wow fadeInUp mt-55">
 					<span class="text-white">
 						Our services go beyond relocation and transportation.
-						<a href="service-details.html"> Explore All Services </a>
+						<a href="service_1.php"> Explore All Services </a>
 					</span>
 				</div>
 			</div>
@@ -270,7 +270,7 @@
 
 						<!-- Button -->
 						<div class="st__about__btn mt-50">
-							<a class="st__btn2" href="service-details.html">
+							<a class="st__btn2" href="service_1.php">
 								Explore Our Services <i class="bi bi-arrow-right"></i>
 							</a>
 						</div>
@@ -324,12 +324,12 @@
 					<div class="st__service__content">
 						<span>Secure Moving</span>
 						<h2>
-							<a href="service-details.html">
+							<a href="service_1.php">
 								Household Packing & Shifting
 							</a>
 						</h2>
 						<div class="st__service__btn">
-							<a href="service-details.html">
+							<a href="service_1.php">
 								<i class="bi bi-arrow-right"></i>
 							</a>
 						</div>
@@ -349,12 +349,12 @@
 					<div class="st__service__content">
 						<span>Professional Handling</span>
 						<h2>
-							<a href="service-details.html">
+							<a href="service_1.php">
 								Office & Corporate Shifting
 							</a>
 						</h2>
 						<div class="st__service__btn">
-							<a href="service-details.html">
+							<a href="service_1.php">
 								<i class="bi bi-arrow-right"></i>
 							</a>
 						</div>
@@ -374,12 +374,12 @@
 					<div class="st__service__content">
 						<span>Damage-Free Delivery</span>
 						<h2>
-							<a href="service-details.html">
+							<a href="service_1.php">
 								Car & Bike Transportation
 							</a>
 						</h2>
 						<div class="st__service__btn">
-							<a href="service-details.html">
+							<a href="service_1.php">
 								<i class="bi bi-arrow-right"></i>
 							</a>
 						</div>
@@ -709,7 +709,7 @@
 					<a class="st__btn2" href="contact.html">
 						Get Free Quote <i class="bi bi-arrow-right"></i>
 					</a>
-					<a class="st__btn mt-40" href="service-details.html">
+					<a class="st__btn mt-40" href="service_1.php">
 						View Our Services <i class="bi bi-arrow-right"></i>
 					</a>
 				</div>

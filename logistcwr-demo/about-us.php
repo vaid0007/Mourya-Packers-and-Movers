@@ -81,7 +81,7 @@
 
 				<div class="breadcumb__links">
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li><a href="#"> / </a></li>
 						<li><a href="#">About Us</a></li>
 					</ul>
@@ -144,18 +144,8 @@
 
 						<!-- Video & Button -->
 						<div class="st__about__right">
-							<div class="st__about__video__box">
-								<a class="video-vemo-icon st__about__video venobox vbox-item"
-								   data-vbtype="youtube"
-								   data-autoplay="true"
-								   href="https://www.youtube.com/watch?v=N7L5wlPxZ1o">
-									<i class="bi bi-play"></i>
-								</a>
-								<span>Watch How We Work</span>
-							</div>
-
 							<div class="st__about__btn">
-								<a class="st__btn2" href="service-details.html">
+								<a class="st__btn2" href="service_1.php">
 									Explore Our Services <i class="bi bi-arrow-right"></i>
 								</a>
 							</div>
@@ -194,7 +184,7 @@
 							<img src="assets/images/service/icon4.png" alt="">
 						</div>
 						<h2>
-							<a href="service-details.html">
+							<a href="service_1.php">
 								Household Packing & Shifting
 							</a>
 						</h2>
@@ -203,7 +193,7 @@
 							services for homes with complete care.
 						</p>
 						<div class="st__service__btn">
-							<a href="service-details.html">
+							<a href="service_1.php">
 								<i class="bi bi-arrow-right"></i>
 							</a>
 						</div>
@@ -222,7 +212,7 @@
 							<img src="assets/images/service/icon5.png" alt="">
 						</div>
 						<h2>
-							<a href="service-details.html">
+							<a href="service_1.php">
 								Office & Corporate Shifting
 							</a>
 						</h2>
@@ -231,7 +221,7 @@
 							with minimal downtime for businesses.
 						</p>
 						<div class="st__service__btn">
-							<a href="service-details.html">
+							<a href="service_3.php">
 								<i class="bi bi-arrow-right"></i>
 							</a>
 						</div>
@@ -250,7 +240,7 @@
 							<img src="assets/images/service/icon6.png" alt="">
 						</div>
 						<h2>
-							<a href="service-details.html">
+							<a href="service_1.php">
 								Car & Bike Transportation
 							</a>
 						</h2>
@@ -259,7 +249,7 @@
 							services with timely delivery assurance.
 						</p>
 						<div class="st__service__btn">
-							<a href="service-details.html">
+							<a href="service_2.php">
 								<i class="bi bi-arrow-right"></i>
 							</a>
 						</div>
@@ -293,7 +283,7 @@
 					<a class="st__btn2" href="contact.html">
 						Get Free Quote <i class="bi bi-arrow-right"></i>
 					</a>
-					<a class="st__btn" href="service-details.html">
+					<a class="st__btn" href="service_1.php">
 						View Services <i class="bi bi-arrow-right"></i>
 					</a>
 				</div>

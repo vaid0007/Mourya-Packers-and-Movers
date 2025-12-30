@@ -22,7 +22,7 @@
 		<div class="offcanvas__content">
 			<div class="offcanvas__top d-flex justify-content-between align-items-center">
 				<div class="offcanvas__logo">
-					<a href="index.html">
+					<a href="index.php">
 						<img src="assets/images/logo/logo1.png" alt="logo not found">
 					</a>
 				</div>
@@ -57,7 +57,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-2 col-md-6 col-sm-2">
 						<div class="st-header-logo">
-							<a href="index.html"><img src="assets/images/logo/logo1.png" alt="logo not found"></a>
+							<a href="index.php"><img src="assets/images/logo/logo1.png" alt="logo not found"></a>
 						</div>
 					</div>
 					<div class="col-lg-10 col-md-6 col-sm-10">
