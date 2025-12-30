@@ -5,7 +5,7 @@
 		<!-- loading content here -->
 		<div class="preloader__content text-center">
 			<div class="preloader__logo">
-				<img src="assets/images/logo/ts_logo.png" alt="">
+				<img src="assets/images/logo/logo1.png" alt="">
 			</div>
 			<div id="st-loading-bar" class="preloader__bar">
 				<div id="st-loading-line" class="preloader__bar-inner"></div>
@@ -23,7 +23,7 @@
 			<div class="offcanvas__top d-flex justify-content-between align-items-center">
 				<div class="offcanvas__logo">
 					<a href="index.html">
-						<img src="assets/images/logo/ts_logo.png" alt="logo not found">
+						<img src="assets/images/logo/logo1.png" alt="logo not found">
 					</a>
 				</div>
 				<div class="offcanvas__close">
@@ -57,7 +57,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-2 col-md-6 col-sm-2">
 						<div class="st-header-logo">
-							<a href="index.html"><img src="assets/images/logo/ts_logo.png" alt="logo not found"></a>
+							<a href="index.html"><img src="assets/images/logo/logo1.png" alt="logo not found"></a>
 						</div>
 					</div>
 					<div class="col-lg-10 col-md-6 col-sm-10">

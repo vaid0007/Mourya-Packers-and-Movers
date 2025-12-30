@@ -77,7 +77,7 @@
 							</div>
 							<div class="st__cinfobox_content">
 								<h5> Address </h5>
-								<span> 7515 Carriage Court, Coachella, CA, 92236 USA </span>
+								<span> E-138, near Sharma Chowak, Pocket A, SGM Nagar, Sector 21D, Faridabad, Haryana 121001 </span>
 							</div>
 						</div>
 						<div class="st__cinfobox">
@@ -86,7 +86,7 @@
 							</div>
 							<div class="st__cinfobox_content">
 								<h5> Contact Number </h5>
-								<span> (+6656) 1598596969 </span>
+								<span> (+91) 85957 16484 </span>
 							</div>
 						</div>
 						<div class="st__cinfobox">
@@ -95,7 +95,7 @@
 							</div>
 							<div class="st__cinfobox_content">
 								<h5> Email Us </h5>
-								<span> Example@gmail.com</span>
+								<span> packersmaurya@gmail.com</span>
 							</div>
 						</div>
 					</div>					
@@ -155,7 +155,7 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="st__map">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29060.170457136694!2d90.76099906483333!3d24.432692478077946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3756918773180af5%3A0x530a9427210ef003!2sKishoreganj!5e0!3m2!1sen!2sbd!4v1710970051644!5m2!1sen!2sbd" width="400" height="745" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3509.567085069838!2d77.28279590000001!3d28.402140799999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cdfd2f1f04b49%3A0xbed0c85874a9a386!2sMourya%20Packers%20and%20Movers!5e0!3m2!1sen!2sin!4v1767086066369!5m2!1sen!2sin" width="400" height="745" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 					</iframe>
 				</div>
 			</div>

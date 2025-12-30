@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	<!-- Favicon -->
-	<link rel="icon" sizes="56x56" href="assets/images/logo/fav-icon.png">
+	<link rel="icon" sizes="56x56" href="assets/images/logo/logo.png">
 	<!-- bootstrap CSS -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<!-- carousel CSS -->
@@ -239,7 +239,7 @@
 					</div>
 					<div class="st__service__content">
 						<span> Tracking </span>
-						<h2> <a href="service-details.html"> Safety Garunteed </a> </h2>
+						<h2> <a href="service-details.html"> Safety Guaranteed  </a> </h2>
 						<div class="st__service__btn">
 							<a href="service-details.html"> <i class="bi bi-arrow-right"></i> </a>
 						</div>

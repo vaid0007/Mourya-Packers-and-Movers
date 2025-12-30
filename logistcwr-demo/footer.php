@@ -4,7 +4,7 @@
 		<div class="row ft_borer">
 			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__logo">
-					<a href="#"> <img src="assets/images/logo/ts_logo.png" alt=""> </a>
+					<a href="#"> <img src="assets/images/logo/logo1.png" alt=""> </a>
 				</div>
 				<div class="st__footer__text">
 					<p>Feugiat a ligula rutrum luctus primis ultrice nteger congue magna at pretium purus a pretium ligula rutrum and luctus</p>
