@@ -2,7 +2,7 @@
 <div class="st-footer-area pt-120 pb-32" style="background-image: url(assets/images/footer/bg.jpg);background-position: center center;background-size: cover;background-repeat: no-repeat;">
 	<div class="container">
 		<div class="row ft_borer">
-			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
+			<div class="col-lg-4 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__logo">
 					<a href="#"> <img src="assets/images/logo/logo1.png" alt=""> </a>
 				</div>
@@ -20,20 +20,8 @@
 					<a href="#"> <i class="bi bi-pinterest"></i> </a>
 					<a href="#"> <i class="bi bi-instagram"></i> </a>
 				</div>
-			</div>
-			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
-				<div class="st__footer__title">
-					<h2> Our Navigation </h2>
-				</div>
-				<div class="st__footer__link">
-					<a href="#"> <i class="bi bi-chevron-double-right"></i> Airplane Fright </a>
-					<a href="#"> <i class="bi bi-chevron-double-right"></i> About Portx </a>
-					<a href="#"> <i class="bi bi-chevron-double-right"></i> Meet The Team </a>
-					<a href="#"> <i class="bi bi-chevron-double-right"></i> News & Media </a>
-					<a href="#"> <i class="bi bi-chevron-double-right"></i> Our Projects </a>
-				</div>
-			</div>			
-			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
+			</div>		
+			<div class="col-lg-4 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__title">
 					<h2> Our Service </h2>
 				</div>
@@ -65,7 +53,7 @@
 </div>
 
 			</div>			
-			<div class="col-lg-3 col-md-6 wow fadeInUpBig">
+			<div class="col-lg-4 col-md-6 wow fadeInUpBig">
 				<div class="st__footer__title">
 	<h2>Newsletter</h2>
 	<p>

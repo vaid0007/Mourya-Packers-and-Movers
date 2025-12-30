@@ -3,12 +3,49 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Part Load Packing & Shifting | Logisticwr</title>
-	<meta name="description" content="Affordable Part Load Packing & Shifting Services with Safe Handling, Shared Transport and Door-to-Door Delivery.">
+
+	<!-- SEO Title -->
+	<title>
+		Part Load Packing & Shifting in Faridabad | Mourya Packers & Movers
+	</title>
+
+	<!-- Meta Description -->
+	<meta
+		name="description"
+		content="Mourya Packers & Movers offers affordable part load packing and shifting services in Faridabad. Safe handling, shared transportation and door-to-door delivery at economical prices."
+	>
+
+	<!-- Meta Keywords -->
+	<meta
+		name="keywords"
+		content="part load shifting Faridabad, part load packers and movers, shared transport shifting services, small load shifting Faridabad, Mourya Packers Movers part load services"
+	>
+
+	<meta name="author" content="Mourya Packers & Movers">
+	<meta name="robots" content="index, follow">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Canonical URL -->
+	<link rel="canonical" href="https://www.mouryapackersmovers.com/part-load-packing-shifting.html">
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Part Load Packing & Shifting – Mourya Packers & Movers">
+	<meta property="og:description" content="Cost-effective part load packing and shifting services in Faridabad with safe and reliable delivery.">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.mouryapackersmovers.com/part-load-packing-shifting.html">
+	<meta property="og:image" content="assets/images/logo/fav-icon.png">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Part Load Packing & Shifting | Mourya Packers & Movers">
+	<meta name="twitter:description" content="Affordable part load packing and shifting services by Mourya Packers & Movers.">
+	<meta name="twitter:image" content="assets/images/logo/fav-icon.png">
 
 	<!-- Favicon -->
 	<link rel="icon" sizes="56x56" href="assets/images/logo/fav-icon.png">
+
+	<!-- CSS FILES (UNCHANGED) -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/animate.css">
@@ -20,10 +57,12 @@
 	<link rel="stylesheet" href="assets/css/common.css">
 	<link rel="stylesheet" href="venobox/venobox.css">
 	<link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="../npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+	<link rel="stylesheet" href="assets/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
+	<!-- Modernizr -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 </head>
+
 
 <body>
 

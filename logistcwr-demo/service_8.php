@@ -3,12 +3,49 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Corporate Shifting | Logisticwr</title>
-	<meta name="description" content="Professional Corporate Shifting Services with Secure, Efficient and End-to-End Business Relocation Solutions.">
+
+	<!-- SEO Title -->
+	<title>
+		Corporate Shifting Services in Faridabad | Mourya Packers & Movers
+	</title>
+
+	<!-- Meta Description -->
+	<meta
+		name="description"
+		content="Mourya Packers & Movers offers professional corporate shifting services in Faridabad. Secure, efficient and end-to-end business relocation solutions with minimal downtime."
+	>
+
+	<!-- Meta Keywords -->
+	<meta
+		name="keywords"
+		content="corporate shifting Faridabad, corporate packers and movers, business relocation services Faridabad, office relocation company, Mourya Packers Movers corporate shifting"
+	>
+
+	<meta name="author" content="Mourya Packers & Movers">
+	<meta name="robots" content="index, follow">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Canonical URL -->
+	<link rel="canonical" href="https://www.mouryapackersmovers.com/corporate-shifting.html">
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Corporate Shifting Services – Mourya Packers & Movers">
+	<meta property="og:description" content="Secure and professional corporate shifting services in Faridabad with expert planning and execution.">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.mouryapackersmovers.com/corporate-shifting.html">
+	<meta property="og:image" content="assets/images/logo/fav-icon.png">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Corporate Shifting | Mourya Packers & Movers">
+	<meta name="twitter:description" content="Professional corporate and business relocation services by Mourya Packers & Movers.">
+	<meta name="twitter:image" content="assets/images/logo/fav-icon.png">
 
 	<!-- Favicon -->
 	<link rel="icon" sizes="56x56" href="assets/images/logo/fav-icon.png">
+
+	<!-- CSS FILES (UNCHANGED) -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/animate.css">
@@ -20,8 +57,9 @@
 	<link rel="stylesheet" href="assets/css/common.css">
 	<link rel="stylesheet" href="venobox/venobox.css">
 	<link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="../npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+	<link rel="stylesheet" href="assets/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
+	<!-- Modernizr -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 </head>
 

@@ -35,7 +35,7 @@ Text Domain: Logistcwr
 25. Service Details
 
 */
-@import url('../../../css2');
+@import url('./css2');
 
 :root{
   --st-theme-color-one:#f68b21;

@@ -3,40 +3,66 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title> Logistcwr - About Us </title>
-	<meta name="description" content="">
+
+	<!-- SEO Title -->
+	<title>
+		About Mourya Packers & Movers | Trusted Packers and Movers in Faridabad
+	</title>
+
+	<!-- Meta Description -->
+	<meta
+		name="description"
+		content="Know more about Mourya Packers & Movers, a trusted packers and movers company in Faridabad providing reliable household shifting, office relocation, vehicle transport and logistics services across India."
+	>
+
+	<!-- Meta Keywords -->
+	<meta
+		name="keywords"
+		content="about Mourya Packers and Movers, packers and movers Faridabad company, trusted movers in Faridabad, relocation experts Faridabad, household shifting company, office relocation services"
+	>
+
+	<meta name="author" content="Mourya Packers & Movers">
+	<meta name="robots" content="index, follow">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
+	<!-- Canonical URL -->
+	<link rel="canonical" href="https://www.mouryapackersmovers.com/about-us.html">
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="About Mourya Packers & Movers – Faridabad">
+	<meta property="og:description" content="Mourya Packers & Movers is a professional relocation company in Faridabad offering safe and affordable moving services.">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.mouryapackersmovers.com/about-us.html">
+	<meta property="og:image" content="assets/images/logo/fav-icon.png">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="About Mourya Packers & Movers | Faridabad">
+	<meta name="twitter:description" content="Trusted packers and movers in Faridabad for household, office and vehicle shifting.">
+	<meta name="twitter:image" content="assets/images/logo/fav-icon.png">
+
 	<!-- Favicon -->
 	<link rel="icon" sizes="56x56" href="assets/images/logo/fav-icon.png">
-	<!-- bootstrap CSS -->
+
+	<!-- CSS FILES (UNCHANGED) -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<!-- carousel CSS -->
 	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-	<!-- Animate Css -->
-	<link rel="stylesheet" href="assets/css/animate.css">			
-	<!-- Nice Select CSS -->
-	<link rel="stylesheet" href="assets/css/nice-select.css">		
-    <!-- Mobile Menu CSS -->
-	<link rel="stylesheet" href="assets/css/meanmenu.min.css">	
-	<!-- theme-default CSS -->
-	<link rel="stylesheet" href="assets/css/template-default.css">	
-    <!-- Owl Theme CSS -->
-	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">	
-	<!-- Main Style CSS -->
+	<link rel="stylesheet" href="assets/css/animate.css">
+	<link rel="stylesheet" href="assets/css/nice-select.css">
+	<link rel="stylesheet" href="assets/css/meanmenu.min.css">
+	<link rel="stylesheet" href="assets/css/template-default.css">
+	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
 	<link rel="stylesheet" href="assets/css/style.css">
-	<!-- Commom Style CSS -->
 	<link rel="stylesheet" href="assets/css/common.css">
-	<!-- venobox CSS -->
 	<link rel="stylesheet" href="venobox/venobox.css">
-    <!-- responsive CSS -->
-	<link rel="stylesheet" href="assets/css/responsive.css">	
-    <!-- bootstrap icons -->
-    <link rel="stylesheet" href="../npm/bootstrap-icons%401.11.3/font/bootstrap-icons.min.css">
-	<!-- modernizr js -->	
+	<link rel="stylesheet" href="assets/css/responsive.css">
+	<link rel="stylesheet" href="assets/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+	<!-- Modernizr -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
-    
 </head>
+
 <body>
 
 <?php include 'header.php'; ?>

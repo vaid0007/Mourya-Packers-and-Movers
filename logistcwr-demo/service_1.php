@@ -3,39 +3,66 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Household Packing & Shifting | Logisticwr</title>
-	<meta name="description" content="Professional Household Packing & Shifting Services with Safe, Reliable and Affordable Relocation Solutions.">
+
+	<!-- SEO Title -->
+	<title>
+		Household Packing & Shifting in Faridabad | Mourya Packers & Movers
+	</title>
+
+	<!-- Meta Description -->
+	<meta
+		name="description"
+		content="Mourya Packers & Movers offers professional household packing and shifting services in Faridabad. Safe packing, careful loading, secure transportation and on-time delivery at affordable prices."
+	>
+
+	<!-- Meta Keywords -->
+	<meta
+		name="keywords"
+		content="household packing and shifting Faridabad, home relocation services Faridabad, packers and movers for household shifting, home shifting company Faridabad, Mourya Packers Movers household shifting"
+	>
+
+	<meta name="author" content="Mourya Packers & Movers">
+	<meta name="robots" content="index, follow">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Canonical URL -->
+	<link rel="canonical" href="https://www.mouryapackersmovers.com/household-packing-shifting.html">
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Household Packing & Shifting in Faridabad – Mourya Packers & Movers">
+	<meta property="og:description" content="Safe and affordable household shifting services in Faridabad with expert packing and secure transportation.">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.mouryapackersmovers.com/household-packing-shifting.html">
+	<meta property="og:image" content="assets/images/logo/fav-icon.png">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Household Packing & Shifting | Mourya Packers & Movers">
+	<meta name="twitter:description" content="Expert household packing and shifting services in Faridabad by Mourya Packers & Movers.">
+	<meta name="twitter:image" content="assets/images/logo/fav-icon.png">
 
 	<!-- Favicon -->
 	<link rel="icon" sizes="56x56" href="assets/images/logo/fav-icon.png">
-	<!-- bootstrap CSS -->
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<!-- carousel CSS -->
-	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-	<!-- Animate Css -->
-	<link rel="stylesheet" href="assets/css/animate.css">
-	<!-- Nice Select CSS -->
-	<link rel="stylesheet" href="assets/css/nice-select.css">
-	<!-- Mobile Menu CSS -->
-	<link rel="stylesheet" href="assets/css/meanmenu.min.css">
-	<!-- theme-default CSS -->
-	<link rel="stylesheet" href="assets/css/template-default.css">
-	<!-- Owl Theme CSS -->
-	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
-	<!-- Main Style CSS -->
-	<link rel="stylesheet" href="assets/css/style.css">
-	<!-- Commom Style CSS -->
-	<link rel="stylesheet" href="assets/css/common.css">
-	<!-- venobox CSS -->
-	<link rel="stylesheet" href="venobox/venobox.css">
-	<!-- responsive CSS -->
-	<link rel="stylesheet" href="assets/css/responsive.css">
-	<!-- bootstrap icons -->
-	<link rel="stylesheet" href="../npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
+	<!-- CSS FILES (UNCHANGED) -->
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="assets/css/animate.css">
+	<link rel="stylesheet" href="assets/css/nice-select.css">
+	<link rel="stylesheet" href="assets/css/meanmenu.min.css">
+	<link rel="stylesheet" href="assets/css/template-default.css">
+	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/common.css">
+	<link rel="stylesheet" href="venobox/venobox.css">
+	<link rel="stylesheet" href="assets/css/responsive.css">
+	<link rel="stylesheet" href="assets/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+	<!-- Modernizr -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 </head>
+
 
 <body>
 

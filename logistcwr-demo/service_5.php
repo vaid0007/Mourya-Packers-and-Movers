@@ -3,12 +3,49 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Machinery & Equipment Shifting | Logisticwr</title>
-	<meta name="description" content="Professional Machinery & Equipment Shifting Services with Heavy Lifting, Safe Handling and Industrial-Grade Transport Solutions.">
+
+	<!-- SEO Title -->
+	<title>
+		Machinery & Equipment Shifting in Faridabad | Mourya Packers & Movers
+	</title>
+
+	<!-- Meta Description -->
+	<meta
+		name="description"
+		content="Mourya Packers & Movers provides professional machinery and equipment shifting services in Faridabad. Heavy lifting, safe handling, industrial-grade packing and secure transportation solutions."
+	>
+
+	<!-- Meta Keywords -->
+	<meta
+		name="keywords"
+		content="machinery shifting Faridabad, equipment shifting services Faridabad, industrial machinery movers, heavy equipment transportation Faridabad, Mourya Packers Movers machinery shifting"
+	>
+
+	<meta name="author" content="Mourya Packers & Movers">
+	<meta name="robots" content="index, follow">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Canonical URL -->
+	<link rel="canonical" href="https://www.mouryapackersmovers.com/machinery-equipment-shifting.html">
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Machinery & Equipment Shifting in Faridabad – Mourya Packers & Movers">
+	<meta property="og:description" content="Safe and professional machinery and equipment shifting services in Faridabad with expert handling and transport.">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.mouryapackersmovers.com/machinery-equipment-shifting.html">
+	<meta property="og:image" content="assets/images/logo/fav-icon.png">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Machinery & Equipment Shifting | Mourya Packers & Movers">
+	<meta name="twitter:description" content="Expert machinery and equipment shifting services in Faridabad by Mourya Packers & Movers.">
+	<meta name="twitter:image" content="assets/images/logo/fav-icon.png">
 
 	<!-- Favicon -->
 	<link rel="icon" sizes="56x56" href="assets/images/logo/fav-icon.png">
+
+	<!-- CSS FILES (UNCHANGED) -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/animate.css">
@@ -20,8 +57,9 @@
 	<link rel="stylesheet" href="assets/css/common.css">
 	<link rel="stylesheet" href="venobox/venobox.css">
 	<link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="../npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+	<link rel="stylesheet" href="assets/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
+	<!-- Modernizr -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 </head>
 

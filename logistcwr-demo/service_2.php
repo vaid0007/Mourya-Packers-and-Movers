@@ -3,12 +3,49 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Car & Bike Transport | Logisticwr</title>
-	<meta name="description" content="Safe and Reliable Car & Bike Transport Services with Door-to-Door Pickup and Delivery.">
+
+	<!-- SEO Title -->
+	<title>
+		Car & Bike Transport in Faridabad | Mourya Packers & Movers
+	</title>
+
+	<!-- Meta Description -->
+	<meta
+		name="description"
+		content="Mourya Packers & Movers provides safe and reliable car and bike transport services in Faridabad. Door-to-door pickup, secure carriers, timely delivery and affordable pricing."
+	>
+
+	<!-- Meta Keywords -->
+	<meta
+		name="keywords"
+		content="car transport Faridabad, bike transport Faridabad, vehicle transport services Faridabad, car shifting Faridabad, bike shifting services, Mourya Packers Movers vehicle transport"
+	>
+
+	<meta name="author" content="Mourya Packers & Movers">
+	<meta name="robots" content="index, follow">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Canonical URL -->
+	<link rel="canonical" href="https://www.mouryapackersmovers.com/car-bike-transport.html">
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Car & Bike Transport in Faridabad – Mourya Packers & Movers">
+	<meta property="og:description" content="Door-to-door car and bike transport services in Faridabad with safe handling and timely delivery.">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.mouryapackersmovers.com/car-bike-transport.html">
+	<meta property="og:image" content="assets/images/logo/fav-icon.png">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Car & Bike Transport | Mourya Packers & Movers">
+	<meta name="twitter:description" content="Professional car and bike transportation services in Faridabad by Mourya Packers & Movers.">
+	<meta name="twitter:image" content="assets/images/logo/fav-icon.png">
 
 	<!-- Favicon -->
 	<link rel="icon" sizes="56x56" href="assets/images/logo/fav-icon.png">
+
+	<!-- CSS FILES (UNCHANGED) -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/animate.css">
@@ -20,10 +57,12 @@
 	<link rel="stylesheet" href="assets/css/common.css">
 	<link rel="stylesheet" href="venobox/venobox.css">
 	<link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="../npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+	<link rel="stylesheet" href="assets/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
+	<!-- Modernizr -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 </head>
+
 
 <body>
 
