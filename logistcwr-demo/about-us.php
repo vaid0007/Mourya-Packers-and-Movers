@@ -135,8 +135,8 @@
 								</div>
 								<div class="col-md-6">
 									<ul class="about__list">
-										<li>Real-Time Shipment Updates</li>
 										<li>On-Time & Safe Delivery</li>
+										<li>Real-Time Shipment Updates</li>
 									</ul>
 								</div>
 							</div>
