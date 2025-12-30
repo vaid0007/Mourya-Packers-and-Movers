@@ -52,15 +52,14 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="slider-content">
-						<h5>Trusted Packers & Movers in Mumbai</h5>
+						<h5>Trusted Packers & Movers in Faridabad</h5>
 						<h1>
 							Mourya Packers <br>
 							& Movers
 						</h1>
 						<p>
 							We provide reliable household shifting, office relocation,
-							car & bike transportation, and logistics services across Mumbai
-							and India with complete safety and professionalism.
+							car & bike transportation, and logistics services across India with complete safety and professionalism.
 						</p>
 						<a class="st__btn mt-40" href="service-details.html">
 							View Our Services <i class="bi bi-arrow-right"></i>
@@ -174,7 +173,7 @@
 						<h2>Pan India Services</h2>
 						<p>
 							Reliable local and intercity relocation services
-							across Mumbai and major cities in India.
+							across Faridabad and major cities in India.
 						</p>
 						<span class="line"></span>
 					</div>
@@ -581,10 +580,10 @@
 						<div class="st__project__content">
 							<h2>
 								<a href="project-details.html">
-									Household Relocation in Mumbai
+									Household Relocation in Faridabad
 								</a>
 							</h2>
-							<span>Residential Shifting • 2024</span>
+							<span>Residential Shifting • 2026</span>
 						</div>
 						<div class="st__project__btn">
 							<a href="project-details.html">
@@ -609,7 +608,7 @@
 											Corporate Office Shifting
 										</a>
 									</h2>
-									<span>Office Relocation • 2024</span>
+									<span>Office Relocation • 2026</span>
 								</div>
 								<div class="st__project__btn">
 									<a href="project-details.html">
@@ -630,7 +629,7 @@
 											Car & Bike Transportation
 										</a>
 									</h2>
-									<span>Vehicle Transport • 2024</span>
+									<span>Vehicle Transport • 2026</span>
 								</div>
 								<div class="st__project__btn">
 									<a href="project-details.html">
@@ -655,7 +654,7 @@
 									ODC & Heavy Equipment Transportation
 								</a>
 							</h2>
-							<span>Industrial Logistics • 2024</span>
+							<span>Industrial Logistics • 2026</span>
 						</div>
 						<div class="st__project__btn">
 							<a href="project-details.html">
