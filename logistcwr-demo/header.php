@@ -85,8 +85,6 @@
   </ul>
 </li>
 
-										<li><a href="project-grid.php"> Projects <i class="bi"></i> </a>
-										</li>
 										<li><a href="blog-standard.php"> Blogs <i class="bi"></i> </a>
 										</li>
 										<li><a href="contact-us.php"> Contacts <i class="bi"></i> </a>

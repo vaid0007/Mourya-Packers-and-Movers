@@ -123,6 +123,119 @@
 	</div>
 </div>
 
+<section class="py-5 bg-white">
+  <div class="container">
+
+    <!-- Heading -->
+    <div class="row mb-4">
+      <div class="col-lg-8">
+        <h2 class="fw-bold mb-3">
+          Reliable Corporate Shifting & Relocation Services
+        </h2>
+        <p class="text-muted">
+          Corporate shifting requires strategic planning, confidentiality, and
+          flawless execution. Our corporate relocation services are designed to
+          move offices, departments, and entire organizations efficiently with
+          minimal operational disruption.
+        </p>
+        <p class="text-muted">
+          From IT infrastructure and office furniture to important documents
+          and workstations, we ensure a secure, organized, and timely corporate
+          move.
+        </p>
+      </div>
+    </div>
+
+    <!-- Benefits -->
+    <div class="row mb-5">
+      <div class="col-12">
+        <h3 class="fw-bold mb-4">Benefits of Our Service</h3>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Minimal Operational Downtime</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Confidential & Secure Handling</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">End-to-End Project Management</h6>
+        </div>
+      </div>
+    </div>
+
+    <!-- How It Works -->
+    <div class="row">
+      <div class="col-12 mb-4">
+        <h3 class="fw-bold">How It Works</h3>
+        <p class="text-muted">
+          Our corporate shifting process ensures a smooth transition with
+          efficiency, accountability, and precision.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Corporate Move Assessment</h6>
+        <p class="text-muted mb-0">
+          We evaluate your corporate structure, timelines, and assets to create
+          a detailed relocation strategy.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Systematic Packing & Documentation</h6>
+        <p class="text-muted mb-0">
+          All corporate assets are packed securely, labeled department-wise,
+          and documented for complete traceability.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Secure Transportation</h6>
+        <p class="text-muted mb-0">
+          Dedicated vehicles and trained professionals ensure the safe and
+          timely movement of corporate goods.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Unpacking, Setup & Handover</h6>
+        <p class="text-muted mb-0">
+          We assist with unpacking, workstation setup, and final handover so
+          your teams can resume operations immediately.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
 <!-- Appointment Area -->
 <div class="st-appointment-area pt-100 p-relative">
 	<div class="container">
