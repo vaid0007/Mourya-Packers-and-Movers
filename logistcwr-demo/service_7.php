@@ -123,6 +123,119 @@
 	</div>
 </div>
 
+<section class="py-5 bg-white">
+  <div class="container">
+
+    <!-- Heading -->
+    <div class="row mb-4">
+      <div class="col-lg-8">
+        <h2 class="fw-bold mb-3">
+          Affordable Part Load Packing & Shifting Services
+        </h2>
+        <p class="text-muted">
+          Part load packing and shifting is an ideal solution when you need to
+          move a limited quantity of goods without booking a full truck. Our
+          part load services offer a cost-effective and reliable way to
+          transport your belongings safely.
+        </p>
+        <p class="text-muted">
+          By sharing vehicle space with other consignments, we help reduce
+          transportation costs while ensuring secure packing, careful handling,
+          and timely delivery.
+        </p>
+      </div>
+    </div>
+
+    <!-- Benefits -->
+    <div class="row mb-5">
+      <div class="col-12">
+        <h3 class="fw-bold mb-4">Benefits of Our Service</h3>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Cost-Effective Solution</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Secure Shared Transportation</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Flexible Scheduling</h6>
+        </div>
+      </div>
+    </div>
+
+    <!-- How It Works -->
+    <div class="row">
+      <div class="col-12 mb-4">
+        <h3 class="fw-bold">How It Works</h3>
+        <p class="text-muted">
+          Our part load shifting process is designed to offer efficiency,
+          affordability, and complete safety for your goods.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Goods Assessment & Space Planning</h6>
+        <p class="text-muted mb-0">
+          We evaluate the quantity and type of goods to allocate appropriate
+          space in the shared transport vehicle.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Secure Packing & Consolidation</h6>
+        <p class="text-muted mb-0">
+          Items are packed safely and consolidated with other consignments to
+          ensure stability and protection during transit.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Shared Transportation & Monitoring</h6>
+        <p class="text-muted mb-0">
+          Goods are transported via shared trucks with proper monitoring to
+          ensure timely and safe delivery.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">On-Time Delivery & Unloading</h6>
+        <p class="text-muted mb-0">
+          Upon arrival, goods are unloaded carefully and handed over securely
+          at the destination.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
 <!-- Appointment Area -->
 <div class="st-appointment-area pt-100 p-relative">
 	<div class="container">

@@ -123,6 +123,119 @@
 	</div>
 </div>
 
+<section class="py-5 bg-white">
+  <div class="container">
+
+    <!-- Heading -->
+    <div class="row mb-4">
+      <div class="col-lg-8">
+        <h2 class="fw-bold mb-3">
+          Professional Office Shifting & Relocation Services
+        </h2>
+        <p class="text-muted">
+          Office shifting requires careful planning to minimize downtime and
+          protect valuable equipment. Our professional office relocation
+          services ensure a smooth and organized move with minimal disruption
+          to your business operations.
+        </p>
+        <p class="text-muted">
+          From workstations and IT equipment to documents and furniture, our
+          experienced team handles everything with precision, security, and
+          timely execution.
+        </p>
+      </div>
+    </div>
+
+    <!-- Benefits -->
+    <div class="row mb-5">
+      <div class="col-12">
+        <h3 class="fw-bold mb-4">Benefits of Our Service</h3>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Minimal Business Downtime</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Secure IT & Document Handling</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Planned & Timely Execution</h6>
+        </div>
+      </div>
+    </div>
+
+    <!-- How It Works -->
+    <div class="row">
+      <div class="col-12 mb-4">
+        <h3 class="fw-bold">How It Works</h3>
+        <p class="text-muted">
+          Our structured office shifting process ensures efficiency, safety,
+          and smooth continuity of your business operations.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Site Survey & Move Planning</h6>
+        <p class="text-muted mb-0">
+          We analyze your office layout, inventory, and timelines to create a
+          customized relocation plan.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Systematic Packing & Labeling</h6>
+        <p class="text-muted mb-0">
+          All office equipment, documents, and furniture are packed securely
+          and labeled department-wise for quick setup.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Safe Transportation</h6>
+        <p class="text-muted mb-0">
+          We use secure vehicles and trained staff to transport office assets
+          safely and on schedule.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Unloading, Setup & Reinstallation</h6>
+        <p class="text-muted mb-0">
+          Our team assists with unloading, furniture placement, and basic
+          reinstallation to help you resume work quickly.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
 <!-- Appointment Area -->
 <div class="st-appointment-area pt-100 p-relative">
 	<div class="container">

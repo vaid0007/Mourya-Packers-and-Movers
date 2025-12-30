@@ -123,6 +123,119 @@
 	</div>
 </div>
 
+<section class="py-5 bg-white">
+  <div class="container">
+
+    <!-- Heading -->
+    <div class="row mb-4">
+      <div class="col-lg-8">
+        <h2 class="fw-bold mb-3">
+          Reliable ODC (Over Dimensional Cargo) Transportation Services
+        </h2>
+        <p class="text-muted">
+          Transporting over dimensional cargo requires advanced planning,
+          regulatory approvals, and specialized logistics expertise. Our ODC
+          transportation services are designed to handle oversized and heavy
+          cargo safely and efficiently.
+        </p>
+        <p class="text-muted">
+          From heavy machinery and industrial equipment to large structural
+          components, we ensure secure transportation using specialized
+          vehicles, route planning, and escort support.
+        </p>
+      </div>
+    </div>
+
+    <!-- Benefits -->
+    <div class="row mb-5">
+      <div class="col-12">
+        <h3 class="fw-bold mb-4">Benefits of Our Service</h3>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Specialized ODC Vehicles</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Route Planning & Permits</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Safe & Controlled Movement</h6>
+        </div>
+      </div>
+    </div>
+
+    <!-- How It Works -->
+    <div class="row">
+      <div class="col-12 mb-4">
+        <h3 class="fw-bold">How It Works</h3>
+        <p class="text-muted">
+          Our ODC transportation process ensures compliance, safety, and timely
+          delivery of oversized cargo.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Cargo Assessment & Feasibility Study</h6>
+        <p class="text-muted mb-0">
+          We analyze cargo dimensions, weight, and handling requirements to
+          determine the safest transport solution.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Route Survey & Permission Management</h6>
+        <p class="text-muted mb-0">
+          Detailed route surveys are conducted and all statutory permissions
+          are obtained for smooth transit.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Specialized Loading & Securing</h6>
+        <p class="text-muted mb-0">
+          Heavy-duty cranes and rigging equipment are used to load and secure
+          cargo on ODC trailers.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Escort, Monitoring & Safe Delivery</h6>
+        <p class="text-muted mb-0">
+          Escort vehicles, GPS tracking, and continuous monitoring ensure safe
+          movement and on-time delivery.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
 <!-- Appointment Area -->
 <div class="st-appointment-area pt-100 p-relative">
 	<div class="container">

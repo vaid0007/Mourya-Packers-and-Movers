@@ -123,6 +123,119 @@
 	</div>
 </div>
 
+<section class="py-5 bg-white">
+  <div class="container">
+
+    <!-- Heading -->
+    <div class="row mb-4">
+      <div class="col-lg-8">
+        <h2 class="fw-bold mb-3">
+          Safe & Professional Furniture Packing & Shifting Services
+        </h2>
+        <p class="text-muted">
+          Furniture shifting requires special care to avoid scratches, damage,
+          or breakage. Our professional furniture packing and shifting services
+          ensure your valuable furniture is handled with precision and
+          transported safely to your new location.
+        </p>
+        <p class="text-muted">
+          From sofas and beds to wardrobes and office furniture, we use
+          high-quality packing materials and expert techniques to protect every
+          item during transit.
+        </p>
+      </div>
+    </div>
+
+    <!-- Benefits -->
+    <div class="row mb-5">
+      <div class="col-12">
+        <h3 class="fw-bold mb-4">Benefits of Our Service</h3>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Damage-Proof Packing</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Expert Handling Team</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Safe & On-Time Delivery</h6>
+        </div>
+      </div>
+    </div>
+
+    <!-- How It Works -->
+    <div class="row">
+      <div class="col-12 mb-4">
+        <h3 class="fw-bold">How It Works</h3>
+        <p class="text-muted">
+          Our furniture shifting process is designed to ensure safety,
+          efficiency, and complete customer satisfaction.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Furniture Inspection & Planning</h6>
+        <p class="text-muted mb-0">
+          We inspect each furniture item, assess disassembly requirements, and
+          plan the safest packing and transportation method.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Protective Packing & Wrapping</h6>
+        <p class="text-muted mb-0">
+          Furniture is packed using bubble wrap, corrugated sheets, stretch
+          film, and blankets to prevent damage.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Careful Loading & Transportation</h6>
+        <p class="text-muted mb-0">
+          Our trained professionals load furniture securely and transport it
+          using well-maintained vehicles.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Unloading & Placement</h6>
+        <p class="text-muted mb-0">
+          Upon delivery, we unload furniture safely and place it as per your
+          instructions at the new location.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
 <!-- Appointment Area -->
 <div class="st-appointment-area pt-100 p-relative">
 	<div class="container">

@@ -135,6 +135,120 @@
 	</div>
 </div>
 
+<section class="py-5 bg-white">
+  <div class="container">
+
+    <!-- Heading -->
+    <div class="row mb-4">
+      <div class="col-lg-8">
+        <h2 class="fw-bold mb-3">
+          Reliable Household Packing & Shifting Services
+        </h2>
+        <p class="text-muted">
+          Household packing and shifting can feel overwhelming, but with our
+          professional relocation services, your move becomes smooth and
+          worry-free. Whether you are shifting locally or relocating to another
+          city, our trained team ensures the safe handling and transportation of
+          all your household belongings.
+        </p>
+        <p class="text-muted">
+          We use premium packing materials and proven handling techniques to
+          protect furniture, appliances, electronics, and fragile items,
+          ensuring a stress-free moving experience.
+        </p>
+      </div>
+    </div>
+
+    <!-- Benefits -->
+    <div class="row mb-5">
+      <div class="col-12">
+        <h3 class="fw-bold mb-4">Benefits of Our Service</h3>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Safe & Secure Packing</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Experienced Moving Team</h6>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <div class="p-4 text-center shadow-sm h-100 rounded">
+          <div
+            class="bg-primary text-white rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"
+            style="width:60px;height:60px;"
+          >
+            ✓
+          </div>
+          <h6 class="fw-semibold">Timely & Hassle-Free Shifting</h6>
+        </div>
+      </div>
+    </div>
+
+    <!-- How It Works -->
+    <div class="row">
+      <div class="col-12 mb-4">
+        <h3 class="fw-bold">How It Works</h3>
+        <p class="text-muted">
+          Our step-by-step process ensures a smooth and stress-free household
+          relocation experience.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Pre-Move Survey & Planning</h6>
+        <p class="text-muted mb-0">
+          We assess your belongings, plan logistics, and select the right
+          packing materials for a safe and organized move.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Secure Packing & Labeling</h6>
+        <p class="text-muted mb-0">
+          High-quality packing materials are used, and each box is labeled for
+          easy identification and smooth unpacking.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Safe Loading & Transportation</h6>
+        <p class="text-muted mb-0">
+          Our trained professionals ensure secure loading and reliable
+          transportation using well-maintained vehicles.
+        </p>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <h6 class="fw-semibold">Delivery, Unloading & Setup</h6>
+        <p class="text-muted mb-0">
+          On-time delivery with careful unloading and assistance in placing
+          essential items at your new home.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
 <!-- Appointment Area -->
 <div class="st-appointment-area pt-100 p-relative">
 	<div class="container">
