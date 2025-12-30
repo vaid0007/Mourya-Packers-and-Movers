@@ -69,8 +69,22 @@
 										</li>
 										<li><a href="about-us.php"> About <i class="bi"></i> </a>
 										</li>
-										<li><a href="service.php"> Services <i class="bi"></i> </a>
-										</li>
+										<li>
+  <a href="#">
+    Services <i class="bi bi-chevron-down"></i>
+  </a>
+  <ul class="sub__menu">
+    <li><a href="service_1.php">Household Packing & Shifting</a></li>
+    <li><a href="service_2.php">Car & Bike Transport</a></li>
+    <li><a href="service_3.php">Office Shifting</a></li>
+    <li><a href="service_4.php">Furniture Packing & Shifting</a></li>
+    <li><a href="service_5.php">Machinery & Equipment Shifting</a></li>
+    <li><a href="service_6.php">ODC (Over Dimensional Cargo) Transportation</a></li>
+    <li><a href="service_7.php">Part Load Packing & Shifting</a></li>
+    <li><a href="service_8.php">Corporate Shifting</a></li>
+  </ul>
+</li>
+
 										<li><a href="project-grid.php"> Projects <i class="bi"></i> </a>
 										</li>
 										<li><a href="blog-standard.php"> Blogs <i class="bi"></i> </a>
