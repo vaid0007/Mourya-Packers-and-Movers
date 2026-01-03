@@ -363,7 +363,7 @@
 							</a>
 						</h2>
 						<div class="st__service__btn">
-							<a href="service_1.php">
+							<a href="service_3.php">
 								<i class="bi bi-arrow-right"></i>
 							</a>
 						</div>
@@ -388,7 +388,7 @@
 							</a>
 						</h2>
 						<div class="st__service__btn">
-							<a href="service_1.php">
+							<a href="service_2.php">
 								<i class="bi bi-arrow-right"></i>
 							</a>
 						</div>

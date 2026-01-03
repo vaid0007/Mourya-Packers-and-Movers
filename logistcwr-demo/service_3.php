@@ -69,7 +69,13 @@
 <?php include 'header.php'; ?>
 
 <!-- Breadcumb Area -->
-<div class="st-breadcumb-area pt-150" style="background:url(assets/images/breadcumb/breadcumb.jpg) no-repeat;">
+<div class="st-breadcumb-area pt-150" style="
+  background:
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url(assets/images/breadcumb/service_3.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
