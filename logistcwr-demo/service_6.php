@@ -12,7 +12,7 @@
 	<!-- Meta Description -->
 	<meta
 		name="description"
-		content="Mourya Packers & Movers provides professional ODC (Over Dimensional Cargo) transportation services in Faridabad. Heavy haulage, route survey, permit handling and safe delivery across India."
+		content="Mourya Packers & Movers provides professional ODC (Over Dimensional Cargo) transportation services in Faridabad. Heavy haulage, route survey, permit handling and safe, insured delivery across India."
 	>
 
 	<!-- Meta Keywords -->
@@ -23,29 +23,42 @@
 
 	<meta name="author" content="Mourya Packers & Movers">
 	<meta name="robots" content="index, follow">
-
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Local SEO (Important for Industrial & Logistics Services) -->
+	<meta name="geo.region" content="IN-HR">
+	<meta name="geo.placename" content="Faridabad">
+	<meta name="geo.position" content="28.4089;77.3178">
+	<meta name="ICBM" content="28.4089, 77.3178">
+
+	<!-- Service Classification -->
+	<meta name="classification" content="ODC Transportation and Heavy Haulage Services">
+	<meta name="coverage" content="Faridabad, Delhi NCR, Pan India">
+	<meta name="distribution" content="India">
+	<meta name="rating" content="General">
+	<meta name="revisit-after" content="7 days">
 
 	<!-- Canonical URL -->
 	<link rel="canonical" href="https://www.mouryapackersmovers.com/odc-transportation.html">
 
-	<!-- Open Graph -->
-	<meta property="og:title" content="ODC Transportation Services – Mourya Packers & Movers">
-	<meta property="og:description" content="Safe and reliable ODC transportation services in Faridabad with expert route planning and permit handling.">
+	<!-- Open Graph (Facebook / WhatsApp / LinkedIn) -->
+	<meta property="og:title" content="ODC Transportation Services in Faridabad – Mourya Packers & Movers">
+	<meta property="og:description" content="Heavy-duty, precise and insured ODC transportation services in Faridabad with expert route planning and permit handling across India.">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.mouryapackersmovers.com/odc-transportation.html">
-	<meta property="og:image" content="assets/images/logo/fav-icon.png">
+	<meta property="og:image" content="https://www.mouryapackersmovers.com/assets/images/logo/logo.png">
+	<meta property="og:site_name" content="Mourya Packers & Movers">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="ODC Transportation | Mourya Packers & Movers">
-	<meta name="twitter:description" content="Professional ODC (Over Dimensional Cargo) transportation services by Mourya Packers & Movers.">
-	<meta name="twitter:image" content="assets/images/logo/fav-icon.png">
+	<meta name="twitter:title" content="ODC Transportation Services in Faridabad | Mourya Packers & Movers">
+	<meta name="twitter:description" content="Professional ODC and heavy haulage transportation services with route survey, permits and safe delivery across India.">
+	<meta name="twitter:image" content="https://www.mouryapackersmovers.com/assets/images/logo/logo.png">
 
 	<!-- Favicon -->
 	<link rel="icon" sizes="56x56" href="assets/images/logo/fav-icon.png">
 
-	<!-- CSS FILES (UNCHANGED) -->
+	<!-- CSS FILES -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/animate.css">
@@ -62,6 +75,7 @@
 	<!-- Modernizr -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 </head>
+
 
 
 <body>

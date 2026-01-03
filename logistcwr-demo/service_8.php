@@ -12,40 +12,53 @@
 	<!-- Meta Description -->
 	<meta
 		name="description"
-		content="Mourya Packers & Movers offers professional corporate shifting services in Faridabad. Secure, efficient and end-to-end business relocation solutions with minimal downtime."
+		content="Mourya Packers & Movers offers professional corporate shifting services in Faridabad. Secure, efficient and end-to-end business relocation solutions with minimal downtime and insured handling."
 	>
 
 	<!-- Meta Keywords -->
 	<meta
 		name="keywords"
-		content="corporate shifting Faridabad, corporate packers and movers, business relocation services Faridabad, office relocation company, Mourya Packers Movers corporate shifting"
+		content="corporate shifting Faridabad, corporate packers and movers, business relocation services Faridabad, corporate office relocation, Mourya Packers Movers corporate shifting"
 	>
 
 	<meta name="author" content="Mourya Packers & Movers">
 	<meta name="robots" content="index, follow">
-
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Local SEO (Important for Corporate & B2B Services) -->
+	<meta name="geo.region" content="IN-HR">
+	<meta name="geo.placename" content="Faridabad">
+	<meta name="geo.position" content="28.4089;77.3178">
+	<meta name="ICBM" content="28.4089, 77.3178">
+
+	<!-- Service Classification -->
+	<meta name="classification" content="Corporate Shifting and Business Relocation Services">
+	<meta name="coverage" content="Faridabad, Delhi NCR, Pan India">
+	<meta name="distribution" content="India">
+	<meta name="rating" content="General">
+	<meta name="revisit-after" content="7 days">
 
 	<!-- Canonical URL -->
 	<link rel="canonical" href="https://www.mouryapackersmovers.com/corporate-shifting.html">
 
-	<!-- Open Graph -->
-	<meta property="og:title" content="Corporate Shifting Services – Mourya Packers & Movers">
-	<meta property="og:description" content="Secure and professional corporate shifting services in Faridabad with expert planning and execution.">
+	<!-- Open Graph (Facebook / WhatsApp / LinkedIn) -->
+	<meta property="og:title" content="Corporate Shifting Services in Faridabad – Mourya Packers & Movers">
+	<meta property="og:description" content="Secure, efficient and insured corporate shifting services in Faridabad with expert planning and seamless execution.">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.mouryapackersmovers.com/corporate-shifting.html">
-	<meta property="og:image" content="assets/images/logo/fav-icon.png">
+	<meta property="og:image" content="https://www.mouryapackersmovers.com/assets/images/logo/logo.png">
+	<meta property="og:site_name" content="Mourya Packers & Movers">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Corporate Shifting | Mourya Packers & Movers">
-	<meta name="twitter:description" content="Professional corporate and business relocation services by Mourya Packers & Movers.">
-	<meta name="twitter:image" content="assets/images/logo/fav-icon.png">
+	<meta name="twitter:title" content="Corporate Shifting Services in Faridabad | Mourya Packers & Movers">
+	<meta name="twitter:description" content="Professional corporate and business relocation services with minimal downtime and secure handling.">
+	<meta name="twitter:image" content="https://www.mouryapackersmovers.com/assets/images/logo/logo.png">
 
 	<!-- Favicon -->
 	<link rel="icon" sizes="56x56" href="assets/images/logo/fav-icon.png">
 
-	<!-- CSS FILES (UNCHANGED) -->
+	<!-- CSS FILES -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/animate.css">

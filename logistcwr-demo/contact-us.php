@@ -12,40 +12,53 @@
 	<!-- Meta Description -->
 	<meta
 		name="description"
-		content="Contact Mourya Packers & Movers in Faridabad for reliable household shifting, office relocation, car & bike transport and logistics services. Call us today for a free moving quote."
+		content="Contact Mourya Packers & Movers in Faridabad for reliable household shifting, office relocation, car & bike transport, corporate shifting and logistics services. Call now for a free moving quote."
 	>
 
 	<!-- Meta Keywords -->
 	<meta
 		name="keywords"
-		content="contact Mourya Packers and Movers, packers and movers Faridabad contact, movers contact number Faridabad, relocation services Faridabad, household shifting contact"
+		content="contact Mourya Packers and Movers, packers and movers Faridabad contact number, movers contact Faridabad, relocation services Faridabad, household shifting contact, moving quote Faridabad"
 	>
 
 	<meta name="author" content="Mourya Packers & Movers">
 	<meta name="robots" content="index, follow">
-
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Local SEO (Very Important for Contact Page) -->
+	<meta name="geo.region" content="IN-HR">
+	<meta name="geo.placename" content="Faridabad">
+	<meta name="geo.position" content="28.4089;77.3178">
+	<meta name="ICBM" content="28.4089, 77.3178">
+
+	<!-- Business Meta -->
+	<meta name="classification" content="Packers and Movers Company">
+	<meta name="coverage" content="Faridabad, Delhi NCR, Pan India">
+	<meta name="distribution" content="India">
+	<meta name="rating" content="General">
+	<meta name="revisit-after" content="7 days">
 
 	<!-- Canonical URL -->
 	<link rel="canonical" href="https://www.mouryapackersmovers.com/contact-us.html">
 
-	<!-- Open Graph -->
+	<!-- Open Graph (Facebook / WhatsApp / LinkedIn) -->
 	<meta property="og:title" content="Contact Mourya Packers & Movers – Faridabad">
-	<meta property="og:description" content="Get in touch with Mourya Packers & Movers for safe and affordable moving services in Faridabad.">
+	<meta property="og:description" content="Get in touch with Mourya Packers & Movers for safe, insured and affordable packers and movers services in Faridabad.">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.mouryapackersmovers.com/contact-us.html">
-	<meta property="og:image" content="assets/images/logo/fav-icon.png">
+	<meta property="og:image" content="https://www.mouryapackersmovers.com/assets/images/logo/logo.png">
+	<meta property="og:site_name" content="Mourya Packers & Movers">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="Contact Mourya Packers & Movers | Faridabad">
-	<meta name="twitter:description" content="Call Mourya Packers & Movers for household, office and vehicle relocation services in Faridabad.">
-	<meta name="twitter:image" content="assets/images/logo/fav-icon.png">
+	<meta name="twitter:description" content="Call Mourya Packers & Movers for household, office, corporate and vehicle relocation services in Faridabad.">
+	<meta name="twitter:image" content="https://www.mouryapackersmovers.com/assets/images/logo/logo.png">
 
 	<!-- Favicon -->
 	<link rel="icon" sizes="56x56" href="assets/images/logo/fav-icon.png">
 
-	<!-- CSS FILES (UNCHANGED) -->
+	<!-- CSS FILES -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/animate.css">
@@ -62,6 +75,7 @@
 	<!-- Modernizr -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 </head>
+
 
 <body>
 
@@ -81,6 +95,7 @@ background-position: center;
 			<div class="col-lg-12">
 				<div class="breadcumb__top__content text-center wow fadeInUpBig">
 					<span> Business Models you can Consider </span>
+					<h1></h1>
 					<h2> Contact </h2>
 				</div>
 				<div class="breadcumb__links">
@@ -102,6 +117,7 @@ background-position: center;
 				<div class="st__contact__info">
 					<div class="st__contact__title">
 						<h2> Contact Informatlon </h2>
+						<h3></h3>
 					</div>
 					<div class="st__contactinfo__inner">
 						<div class="st__cinfobox">
@@ -174,6 +190,7 @@ background-position: center;
 							<div class="col-lg-12 wow fadeInUp">
 								<div class="st__form__box">
 									<button class="st__btn2" type="submit"> Request Quote <i class="bi bi-arrow-right"></i> </button>
+									<h6></h6>
 								</div>
 							</div>
 						</div>

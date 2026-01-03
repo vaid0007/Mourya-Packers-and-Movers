@@ -744,6 +744,7 @@
 						<div class="st__subscribe__form">
 							<input type="email" name="email" placeholder="Enter Your Email Address" required>
 							<button type="submit"> Get Updates </button>
+							<h6></h6>
 						</div>
 					</form>
 				</div>

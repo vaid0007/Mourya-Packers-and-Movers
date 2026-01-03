@@ -12,7 +12,7 @@
 	<!-- Meta Description -->
 	<meta
 		name="description"
-		content="Mourya Packers & Movers provides safe and reliable car and bike transport services in Faridabad. Door-to-door pickup, secure carriers, timely delivery and affordable pricing."
+		content="Mourya Packers & Movers provides safe and reliable car and bike transport services in Faridabad. Door-to-door pickup, secure carriers, insured transport and timely delivery at affordable prices."
 	>
 
 	<!-- Meta Keywords -->
@@ -23,29 +23,42 @@
 
 	<meta name="author" content="Mourya Packers & Movers">
 	<meta name="robots" content="index, follow">
-
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Local SEO (Critical for Service Ranking) -->
+	<meta name="geo.region" content="IN-HR">
+	<meta name="geo.placename" content="Faridabad">
+	<meta name="geo.position" content="28.4089;77.3178">
+	<meta name="ICBM" content="28.4089, 77.3178">
+
+	<!-- Service Classification -->
+	<meta name="classification" content="Car and Bike Transport Services">
+	<meta name="coverage" content="Faridabad, Delhi NCR, India">
+	<meta name="distribution" content="India">
+	<meta name="rating" content="General">
+	<meta name="revisit-after" content="7 days">
 
 	<!-- Canonical URL -->
 	<link rel="canonical" href="https://www.mouryapackersmovers.com/car-bike-transport.html">
 
-	<!-- Open Graph -->
+	<!-- Open Graph (Facebook / WhatsApp) -->
 	<meta property="og:title" content="Car & Bike Transport in Faridabad – Mourya Packers & Movers">
-	<meta property="og:description" content="Door-to-door car and bike transport services in Faridabad with safe handling and timely delivery.">
+	<meta property="og:description" content="Safe, insured and door-to-door car and bike transport services in Faridabad with secure carriers and timely delivery.">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://www.mouryapackersmovers.com/car-bike-transport.html">
-	<meta property="og:image" content="assets/images/logo/fav-icon.png">
+	<meta property="og:image" content="https://www.mouryapackersmovers.com/assets/images/logo/logo.png">
+	<meta property="og:site_name" content="Mourya Packers & Movers">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Car & Bike Transport | Mourya Packers & Movers">
-	<meta name="twitter:description" content="Professional car and bike transportation services in Faridabad by Mourya Packers & Movers.">
-	<meta name="twitter:image" content="assets/images/logo/fav-icon.png">
+	<meta name="twitter:title" content="Car & Bike Transport in Faridabad | Mourya Packers & Movers">
+	<meta name="twitter:description" content="Professional car and bike transport services in Faridabad with safe handling and on-time delivery.">
+	<meta name="twitter:image" content="https://www.mouryapackersmovers.com/assets/images/logo/logo.png">
 
 	<!-- Favicon -->
 	<link rel="icon" sizes="56x56" href="assets/images/logo/fav-icon.png">
 
-	<!-- CSS FILES (UNCHANGED) -->
+	<!-- CSS FILES -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
 	<link rel="stylesheet" href="assets/css/animate.css">
@@ -62,6 +75,7 @@
 	<!-- Modernizr -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 </head>
+
 
 
 <body>
