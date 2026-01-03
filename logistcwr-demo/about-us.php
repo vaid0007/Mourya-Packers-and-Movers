@@ -69,7 +69,13 @@
 
 <!-- ST Breadcumb Area -->
 <div class="st-breadcumb-area pt-150"
-     style="background: url(assets/images/breadcumb/breadcumb.jpg) no-repeat;">
+     style="
+background:
+linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+url(assets/images/breadcumb/breadcumb2.png) no-repeat;
+background-size: cover;
+background-position: center;
+">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -100,7 +106,7 @@
 			<!-- Image -->
 			<div class="col-lg-6">
 				<div class="st__about__thumb wow fadeInUp">
-					<img src="assets/images/about/about2.png" alt="Mourya Packers and Movers Faridabad">
+					<img src="assets/images/about/about2a.png" alt="Mourya Packers and Movers Faridabad">
 				</div>
 			</div>
 
@@ -177,7 +183,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box__two wow fadeInUp p-relative">
 					<div class="st__service__thumb__two">
-						<img src="assets/images/service/service4.jpg" alt="Household Shifting">
+						<img src="assets/images/service/service4a.png" alt="Household Shifting">
 					</div>
 					<div class="st__service__content">
 						<div class="st__service__icon__two">
@@ -205,7 +211,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box__two wow fadeInUp p-relative">
 					<div class="st__service__thumb__two">
-						<img src="assets/images/service/service5.jpg" alt="Office Relocation">
+						<img src="assets/images/service/service5a.jpg" alt="Office Relocation">
 					</div>
 					<div class="st__service__content">
 						<div class="st__service__icon__two">
@@ -233,7 +239,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box__two wow fadeInUp p-relative">
 					<div class="st__service__thumb__two">
-						<img src="assets/images/service/service6.jpg" alt="Vehicle Transport">
+						<img src="assets/images/service/service6a.jpg" alt="Vehicle Transport">
 					</div>
 					<div class="st__service__content">
 						<div class="st__service__icon__two">
