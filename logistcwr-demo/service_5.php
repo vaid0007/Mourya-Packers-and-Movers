@@ -101,14 +101,8 @@
 			</div>
 
 			<!-- Service 1 -->
-			<div class="col-lg-4 col-md-6">
+			<div class="col-lg-4 col-md-6 pt-5">
 				<div class="st__service__box wow fadeInUp p-relative">
-					<div class="st__service__thumb">
-						<img src="assets/images/service/service1.jpg" alt="">
-						<div class="st__service__icon">
-							<img src="assets/images/service/icon1.png" alt="">
-						</div>
-					</div>
 					<div class="st__service__content">
 						<span>Precision Handling</span>
 						<h2><a href="#">Heavy Machinery Packing</a></h2>
@@ -120,14 +114,8 @@
 			</div>
 
 			<!-- Service 2 -->
-			<div class="col-lg-4 col-md-6">
+			<div class="col-lg-4 col-md-6 pt-5">
 				<div class="st__service__box wow fadeInUp p-relative">
-					<div class="st__service__thumb">
-						<img src="assets/images/service/service2.jpg" alt="">
-						<div class="st__service__icon">
-							<img src="assets/images/service/icon2.png" alt="">
-						</div>
-					</div>
 					<div class="st__service__content">
 						<span>Secure Transit</span>
 						<h2><a href="#">Industrial Equipment Transport</a></h2>
@@ -139,14 +127,8 @@
 			</div>
 
 			<!-- Service 3 -->
-			<div class="col-lg-4 col-md-6">
+			<div class="col-lg-4 col-md-6 pt-5">
 				<div class="st__service__box wow fadeInUp p-relative">
-					<div class="st__service__thumb">
-						<img src="assets/images/service/service3.jpg" alt="">
-						<div class="st__service__icon">
-							<img src="assets/images/service/icon3.png" alt="">
-						</div>
-					</div>
 					<div class="st__service__content">
 						<span>Turnkey Solutions</span>
 						<h2><a href="#">Complete Plant Relocation</a></h2>

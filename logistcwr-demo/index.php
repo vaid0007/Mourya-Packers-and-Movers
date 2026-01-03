@@ -238,7 +238,7 @@
 			<!-- Image -->
 			<div class="col-lg-6">
 				<div class="st__about__thumb wow fadeInUp">
-					<img src="assets/images/about/about.jpg" alt="Mourya Packers and Movers Faridabad">
+					<img src="assets/images/about/about1.png" alt="Mourya Packers and Movers Faridabad">
 				</div>
 			</div>
 
@@ -325,7 +325,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/service1.jpg" alt="Household Shifting">
+						<img src="assets/images/service/service_1.png" alt="Household Shifting">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon1.png" alt="">
 						</div>
@@ -350,7 +350,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/service2.jpg" alt="Office Relocation">
+						<img src="assets/images/service/service_2.png" alt="Office Relocation">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon2.png" alt="">
 						</div>
@@ -375,7 +375,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__service__box wow fadeInUp p-relative">
 					<div class="st__service__thumb">
-						<img src="assets/images/service/service3.jpg" alt="Vehicle Transport">
+						<img src="assets/images/service/service_3.png" alt="Vehicle Transport">
 						<div class="st__service__icon">
 							<img src="assets/images/service/icon3.png" alt="">
 						</div>
@@ -611,7 +611,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__project__single p-relative">
 					<div class="st__project__thumb">
-						<img src="assets/images/project/p1.jpg" alt="Household Shifting Project">
+						<img src="assets/images/project/p_1.jpg" alt="Household Shifting Project">
 						<div class="st__project__content">
 							<h2>
 								<a href="project-details.html">
@@ -636,7 +636,7 @@
 					<div class="col-lg-12">
 						<div class="st__project__single p-relative">
 							<div class="st__project__thumb">
-								<img src="assets/images/project/p2.jpg" alt="Office Relocation Project">
+								<img src="assets/images/project/p_2.png" alt="Office Relocation Project">
 								<div class="st__project__content">
 									<h2>
 										<a href="project-details.html">
@@ -682,7 +682,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__project__single p-relative mb-res">
 					<div class="st__project__thumb">
-						<img src="assets/images/project/p4.jpg" alt="ODC Transportation Project">
+						<img src="assets/images/project/p_4.jpg" alt="ODC Transportation Project">
 						<div class="st__project__content">
 							<h2>
 								<a href="project-details.html">
@@ -706,7 +706,7 @@
 
 <!-- ST Call To Action -->
 <div class="st-call-do-action pt-180 p-relative pb-450"
-     style="background-image: url(assets/images/call-do-action/bg.jpg);background-position: center center;background-size: cover;background-repeat: no-repeat;">
+     style="background-image: url(assets/images/call-do-action/bg_1.png);background-position: center center;background-size: cover;background-repeat: no-repeat;">
 	<div class="contaienr">
 		<div class="row">
 			<div class="col-lg-12">
@@ -779,7 +779,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="st__blog__single__box wow fadeInUp">
 					<div class="st__blog__thumb">
-						<img src="assets/images/blog/b1.jpg" alt="Household Shifting Tips">
+						<img src="assets/images/blog/b_1.png" alt="Household Shifting Tips">
 					</div>
 					<div class="st__blog__content">
 						<div class="st__meta__top">

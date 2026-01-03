@@ -102,14 +102,8 @@
 			</div>
 
 			<!-- Service 1 -->
-			<div class="col-lg-4 col-md-6">
+			<div class="col-lg-4 col-md-6 pt-5">
 				<div class="st__service__box wow fadeInUp p-relative">
-					<div class="st__service__thumb">
-						<img src="assets/images/service/service1.jpg" alt="">
-						<div class="st__service__icon">
-							<img src="assets/images/service/icon1.png" alt="">
-						</div>
-					</div>
 					<div class="st__service__content">
 						<span>Protective Packing</span>
 						<h2><a href="#">Expert Furniture Packing</a></h2>
@@ -121,14 +115,8 @@
 			</div>
 
 			<!-- Service 2 -->
-			<div class="col-lg-4 col-md-6">
+			<div class="col-lg-4 col-md-6 pt-5">
 				<div class="st__service__box wow fadeInUp p-relative">
-					<div class="st__service__thumb">
-						<img src="assets/images/service/service2.jpg" alt="">
-						<div class="st__service__icon">
-							<img src="assets/images/service/icon2.png" alt="">
-						</div>
-					</div>
 					<div class="st__service__content">
 						<span>Secure Transit</span>
 						<h2><a href="#">Safe Furniture Transportation</a></h2>
@@ -140,14 +128,8 @@
 			</div>
 
 			<!-- Service 3 -->
-			<div class="col-lg-4 col-md-6">
+			<div class="col-lg-4 col-md-6 pt-5">
 				<div class="st__service__box wow fadeInUp p-relative">
-					<div class="st__service__thumb">
-						<img src="assets/images/service/service3.jpg" alt="">
-						<div class="st__service__icon">
-							<img src="assets/images/service/icon3.png" alt="">
-						</div>
-					</div>
 					<div class="st__service__content">
 						<span>End-to-End</span>
 						<h2><a href="#">Complete Furniture Relocation</a></h2>
