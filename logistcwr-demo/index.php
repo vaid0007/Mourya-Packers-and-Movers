@@ -73,10 +73,19 @@
 
 	<!-- Slide 1 -->
 	<div class="st-slider-area d-flex align-items-center">
-		<div class="slider__bg" style="background-image: url(assets/images/slider/slider-1.jpg);background-position: center center;background-size: cover;background-repeat: no-repeat;"></div>
+<div class="slider__bg"
+     style="
+       background-image:
+         linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+         url(assets/images/slider/slider-01.jpg);
+       background-position: center center;
+       background-size: cover;
+       background-repeat: no-repeat;
+     ">
+</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-12">
+				<div class="col-lg-12 ps-5">
 					<div class="slider-content">
 						<h5>Trusted Packers & Movers in Faridabad</h5>
 						<h1>
@@ -777,7 +786,7 @@
 							<div class="st__blog__meta">
 								<div class="st__blog__meta__inner d-flex align-items-center">
 									<div class="st__meta__thumb">
-										<img src="assets/images/blog/meta.png" alt="">
+										<img src="assets/images/blog/meta1.jpg" alt="">
 									</div>
 									<div class="st__blog__meta__content">
 										<span><a href="blog-details.html">By Admin</a></span>
@@ -809,7 +818,7 @@
 							<div class="st__blog__meta">
 								<div class="st__blog__meta__inner d-flex align-items-center">
 									<div class="st__meta__thumb">
-										<img src="assets/images/blog/meta.png" alt="">
+										<img src="assets/images/blog/meta1.jpg" alt="">
 									</div>
 									<div class="st__blog__meta__content">
 										<span><a href="blog-details.html">By Admin</a></span>
@@ -847,7 +856,7 @@
 							<div class="st__blog__meta">
 								<div class="st__blog__meta__inner d-flex align-items-center">
 									<div class="st__meta__thumb">
-										<img src="assets/images/blog/meta.png" alt="">
+										<img src="assets/images/blog/meta1.jpg" alt="">
 									</div>
 									<div class="st__blog__meta__content">
 										<span><a href="blog-details.html">By Admin</a></span>
