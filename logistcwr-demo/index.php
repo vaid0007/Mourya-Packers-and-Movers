@@ -581,15 +581,6 @@
 	<div class="st__appointment__shape1 wow fadeInUp">
 		<img src="assets/images/appointment/shape.png" alt="">
 	</div>
-
-	<div class="st__appointment__video wow fadeInUp">
-		<a class="video-vemo-icon st__video venobox vbox-item"
-		   data-vbtype="youtube"
-		   data-autoplay="true"
-		   href="https://youtu.be/BS4TUd7FJSg">
-			<i class="bi bi-play"></i>
-		</a>
-	</div>
 </div>
 
 <!-- ST Project Area -->

@@ -264,6 +264,7 @@ background-position: center;
 								Car & Bike Transportation
 							</a>
 						</h2>
+						<h3></h3>
 						<p>
 							Damage-free vehicle transportation
 							services with timely delivery assurance.
@@ -290,6 +291,7 @@ background-position: center;
 			<div class="col-lg-9">
 				<div class="st__section__title mb-50 wow fadeInUp">
 					<h5 class="text-white">Request a Free Quote</h5>
+					<h6></h6>
 					<h1 class="text-white">
 						24/7 Support for <br>
 						Packers & Movers Services
@@ -300,7 +302,7 @@ background-position: center;
 						transportation, and logistics services. Get expert guidance and
 						reliable solutions anytime you need.
 					</p>
-					<a class="st__btn2" href="contact.html">
+					<a class="st__btn2" href="contact-us.php">
 						Get Free Quote <i class="bi bi-arrow-right"></i>
 					</a>
 					<a class="st__btn" href="service_1.php">
@@ -316,15 +318,6 @@ background-position: center;
 	<!-- Shape & Video -->
 	<div class="st__appointment__shape1 wow fadeInUp">
 		<img src="assets/images/appointment/shape2.png" alt="">
-	</div>
-
-	<div class="st__appointment__video wow fadeInUp">
-		<a class="video-vemo-icon st__video venobox vbox-item"
-		   data-vbtype="youtube"
-		   data-autoplay="true"
-		   href="https://www.youtube.com/watch?v=N7L5wlPxZ1o">
-			<i class="bi bi-play"></i>
-		</a>
 	</div>
 </div>
 
