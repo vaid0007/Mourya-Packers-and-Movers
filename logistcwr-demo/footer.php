@@ -36,28 +36,28 @@
 					<h2> Our Service </h2>
 				</div>
 				<div class="st__footer__link">
-	<a href="services_1.php">
+	<a href="service_1.php">
 		<i class="bi bi-chevron-double-right"></i> Household Packing & Shifting
 	</a>
-	<a href="services_2.php">
+	<a href="service_2.php">
 		<i class="bi bi-chevron-double-right"></i> Car & Bike Transport
 	</a>
-	<a href="services_3.php">
+	<a href="service_3.php">
 		<i class="bi bi-chevron-double-right"></i> Office Shifting
 	</a>
-	<a href="services_4.php">
+	<a href="service_4.php">
 		<i class="bi bi-chevron-double-right"></i> Furniture Packing & Shifting
 	</a>
-	<a href="services_5.php">
+	<a href="service_5.php">
 		<i class="bi bi-chevron-double-right"></i> Machinery & Equipment Shifting
 	</a>
-	<a href="services_6.php">
+	<a href="service_6.php">
 		<i class="bi bi-chevron-double-right"></i> ODC (Over Dimensional Cargo) Transportation
 	</a>
-	<a href="services_7.php">
+	<a href="service_7.php">
 		<i class="bi bi-chevron-double-right"></i> Part Load Packing & Shifting
 	</a>
-	<a href="services_8.php">
+	<a href="service_8.php">
 		<i class="bi bi-chevron-double-right"></i> Corporate Shifting
 	</a>
 </div>
